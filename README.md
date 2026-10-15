@@ -113,7 +113,7 @@ The updated version will be published at this URL with a revised effective date.
 If you have questions, concerns, or requests regarding this Privacy Policy, contact us at:
 
 **GSS Interactive**  
-**Email:** [Your Privacy Contact Email]
+**Email:** parasgahlan95@gmail.com
 
-**Privacy Policy URL:** [Your Published GitHub Pages URL]
+
 
